@@ -17,6 +17,10 @@ There is a file named data.js in this project, which consists of an array of obj
 
 This data was used in this simple React project to display information about each destination, such as its name, location, dates, description, and an image. One can make use of this journal by adding, replacing or removing destinations, and customizing it as they wish.
 
+
+### Short Note
+*This journal is mobile only, I did not make use of media queries. Feel free to modify it so it will adapt better to larger screen sizes.*
+
 ## Usage
 To run this project, simply clone the repository and run npm start in your terminal. This will start the development server and open the app in your browser.
 
